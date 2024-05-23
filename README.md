@@ -1,6 +1,7 @@
 # application
 
 A new Flutter project.
+Click a button to change the Dice
 
 ## Getting Started
 
